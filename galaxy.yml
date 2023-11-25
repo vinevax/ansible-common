@@ -1,0 +1,9 @@
+---
+namespace: vinevax
+name: common
+version: 1.0.0
+description: Common tasks for debian based systems
+authors:
+  - vinevax
+license:
+  - MIT
